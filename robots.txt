@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://slotdepo-5k.pandapower.org/sitemap.xml
